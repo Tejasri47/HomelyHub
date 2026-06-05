@@ -1,0 +1,9 @@
+node_modules/
+backend/node_modules/
+backend/.env
+__pycache__/
+dist/
+build/
+*.log
+.env
+.DS_Store
